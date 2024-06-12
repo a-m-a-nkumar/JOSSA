@@ -1,0 +1,22 @@
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    background-color: white;
+    color: black;
+  }
+  
+  #root {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .image-column {
+    height: calc(100% - 40px); /* Adjust based on padding/margins */
+    overflow-y: auto;
+    scroll-behavior: smooth;
+  }
+  
