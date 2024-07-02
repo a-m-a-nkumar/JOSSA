@@ -20,7 +20,7 @@ JoSAA Insights is a web application designed to provide comprehensive insights a
 Clone the project
 
 ```bash
-  git clone git@github.com:im-sparrow05/jossa-data-analysis.git
+  git clone git@github.com:a-m-a-nkumar/JOSSA.git
 ```
 
 Go to the project directory
