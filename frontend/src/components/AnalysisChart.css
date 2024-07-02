@@ -1,0 +1,12 @@
+/* YearWiseAnalysisChart.css */
+
+.chart-wrapper {
+    width: 80%;
+    height: 400px;
+}
+
+@media (max-width: 768px) {
+    .custom-chart {
+        width: 100% !important; /* Adjust the width for 768px and below */
+    }
+}
