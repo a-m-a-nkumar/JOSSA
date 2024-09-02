@@ -1,6 +1,6 @@
-# JoSAA Data Analysis
+# JOSSAViz
 
-JoSAA Insights is a web application designed to provide comprehensive insights and analysis for college admissions. This project includes various sections such as college predictions, round analysis, yearly trends, and exploratory data analysis (EDA) insights.
+JOSSAViz is a web application designed to provide comprehensive insights and analysis for college admissions. This project includes various sections such as college predictions, round analysis, yearly trends, and exploratory data analysis (EDA) insights.
 
 ## Deployment 
   The Website is deployed at https://jossa-one.vercel.app/
