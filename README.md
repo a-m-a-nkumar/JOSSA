@@ -1,6 +1,14 @@
 # JoSAA Insights
 
 JoSAA Insights is a web application designed to provide comprehensive insights and analysis for college admissions. This project includes various sections such as college predictions, round analysis, yearly trends, and exploratory data analysis (EDA) insights.
+
+## Deployment 
+  The Website is deployed at https://jossa-one.vercel.app/
+
+  The backend of the project is deployed at https://jossa-data-analysis.onrender.com/
+  
+  (**Note**: When opening the website for the first time, some functionalities may not work during the initial 50 seconds. Please refresh the site after 50 seconds. This delay is due to the limitations of the free trial on Render.)
+  
 ## Tech Stack
 
 **Client:** React, Chart.js, TailwindCSS, Material UI, slick-carousel
@@ -75,7 +83,8 @@ Start the frontend server
   npm start
 ```
 
-### Now, frontend is deployed on localhost:3000, now our app is ready to use
+### Now, frontend is deployed on localhost:3000, now our app is ready to use.
+
 
 
 
