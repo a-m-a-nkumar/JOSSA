@@ -1,4 +1,4 @@
-# JoSAA Insights
+# JoSAA Data Analysis
 
 JoSAA Insights is a web application designed to provide comprehensive insights and analysis for college admissions. This project includes various sections such as college predictions, round analysis, yearly trends, and exploratory data analysis (EDA) insights.
 
